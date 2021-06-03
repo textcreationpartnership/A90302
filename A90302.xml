@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of an apparition in the likenesse of a bird with a white brest, that appeared hovering over the deathbeds of some of the children of Mr. James Oxenham of Sale Monachorum, Devon. Gent. Confirmed by sundry witnesses as followeth in the ensuing treatise.</title>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90302</idno><idno type="EEBO-CITATION">99871211</idno>
+  <idno type="VID">157701</idno>
+  <idno type="EEBO-PROQUEST">2248521487</idno>
+  
+            <idno type="STC">Wing O842</idno>
+            <idno type="STC">Thomason E205_6</idno>
+            <idno type="STC">ESTC R212607</idno>
+            <idno type="PROQUEST">99871211</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871211e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90302)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157701)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 36:E205[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of an apparition in the likenesse of a bird with a white brest, that appeared hovering over the deathbeds of some of the children of Mr. James Oxenham of Sale Monachorum, Devon. Gent. Confirmed by sundry witnesses as followeth in the ensuing treatise.</title>
+               </titleStmt>
+               <extent>[24] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.O. for Richard Clutterbuck, and are to be sold at the signe of the Gun in little Brittain neere S. Botolphs Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-C p4s.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Apparitions --  Early works to 1800.</term>
+               <term type="topical_term">Holy Spirit --  Symbolism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="account">
+            <pb facs="tcp:157701:1"/>
+            <p>A True Relation of an Apparition in the likenesse of a Bird with a white brest, that appeared hovering over the Death<g ref="char:EOLhyphen"/>Beds of some of the children of Mr. <hi>James Oxenham</hi> of <hi>Sale Mona<g ref="char:EOLhyphen"/>chorum, Devon. Gent.</hi>
+            </p>
+            <p>Confirmed by sundry witnesses as followeth in the ensuing Treatise.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>I.O.</hi> for <hi>Richard Clutterbuck,</hi> and are to be sold at the signe of the Gun in <hi>little Brittain</hi> neere S. <hi>Botolphs</hi> Church. 1641.</p>
+         </div>
+         <div type="list_of_illustrations">
+            <pb facs="tcp:157701:2"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of white bird flying above man lying in bed</figDesc>
+                  <p>
+                     <hi>Iohn Oxenham Gentleman Aged: 21: Died with this Aparition aboue ruifnesse Robert Woodley and Humphrey King</hi>
+                  </p>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>woodcut of white bird flying above woman lying in bed</figDesc>
+                  <p>
+                     <hi>Tomasin the wife of Iames Oxenham the younger Genttleman Aged: 22: Died w<seg rend="sup">th</seg> y<seg rend="sup">e</seg> like Aparition—Witnesse Elizabeth Errost &amp; Toane Tooker</hi>
+                  </p>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>woodcut of white bird flying above woman lying in bed</figDesc>
+                  <p>
+                     <hi>Rebecka Oxenham Aged: 8: Died with the same Aparition witnesse Elis: Auerie widdow and Mary Stephens</hi>
+                  </p>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>woodcut of white bird flying above child lying in cradle</figDesc>
+                  <p>
+                     <hi>Tomasin a Child in a cradle Died with the like Aparition witnesse Elis: Auerie &amp; Mary Stephens</hi>
+                  </p>
+               </figure>
+            </p>
+            <pb facs="tcp:157701:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:157701:3"/>
+            <pb facs="tcp:157701:3"/>
+            <head>A short Treatise of the godly lives, and deaths, of some of the Children of <hi>James Oxenham,</hi> of <hi>Sale Monachorum</hi> in <hi>Devonshire,</hi> Gent: a true and zealous <hi>Protestant.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Phylosopher on a time be<g ref="char:EOLhyphen"/>ing asked, which was the surest way to dye comfor<g ref="char:EOLhyphen"/>tably? presently replyed,▪ <hi>To have liv'd vertuously:</hi> The Prophet <hi>Daniel</hi> affirmes it; <hi>that the righteous shall shine</hi>
+               <note place="margin">Dan. 12.</note>
+               <hi>as the starres in the firmament:</hi> and 'tis no otherwise likely, but that those should shine in Glory, who on Earth were such lights of Puritie and Piety: to doe well is the best method to
+<pb facs="tcp:157701:4"/> end happily; an holy life being the usher in of a blessed death: <hi>Marke</hi> (saith King <hi>David) the upright, and be<g ref="char:EOLhyphen"/>hold the righteous, for the end of that man</hi>
+               <note place="margin">Psal. 17.</note>
+               <hi>is peace.</hi>
+            </p>
+            <p>Such, and no other, were these parties both in their lives, and deaths: a compleat joy, without all question to their Parents. Saint <hi>Iohn</hi> writing to the Elect Lady, in his Epistle saith, <hi>That hee had no greater ioy, than to heare that her Children walked in the truth:</hi> and St. <hi>Paul</hi> doth professe, that such <hi>as kept the faith were his ioy and rejoycing:</hi> How truely then have the Parents of these, just cause and matter of conso<g ref="char:EOLhyphen"/>lation, when as they were not one<g ref="char:EOLhyphen"/>ly eare but also eye-witnesses of the pious demeanors of their Children; who might say, as once that famous St. <hi>Ambrose</hi> did to his Auditors: <hi>I have not so lived amongst you, as that I am asha<g ref="char:EOLhyphen"/>med
+<pb facs="tcp:157701:4"/> to leave you:</hi> for certaine, <hi>Iesus Christ was and is to all those both in life and death advantage.</hi> What an excel<g ref="char:EOLhyphen"/>lent invitation are these to all parents to bring up their children in the feare of God, that being grounded in their younger yeares in the principles of Faith, they may thorow the whole course of their life keep it, and (as St. <hi>Peter</hi> saith) <hi>in the end receive the reward of their Faith, even the salvation of their soules.</hi>
+            </p>
+            <p>In this following discourse, what is, or shall bee spoken of the parties, shall not bee tainted with flatteries, but shall bee warrantably true, as by the testimonies of divers sufficient witnesses may appeare, who are yet alive, being good and religious peo<g ref="char:EOLhyphen"/>ple, and the Pastor of the place, a man of able parts, and of an holy con<g ref="char:EOLhyphen"/>versation, who doe give in testimony
+<pb facs="tcp:157701:5"/> for the confirmation of what is here recorded; the place where they dwel<g ref="char:EOLhyphen"/>led, being not in any remote Regi<g ref="char:EOLhyphen"/>on, but at home, the time when it fell out, being but (as I may say) as ye<g ref="char:EOLhyphen"/>sterday; some foure or five yeares a<g ref="char:EOLhyphen"/>goe, and the parties who dyed being of no obscure birth, but of good rank and repute in their native Countrie, they all being by the command of a reverend Father of our Church strict<g ref="char:EOLhyphen"/>ly examined concerning the premises; who finding all their sayings to bee true and just, hath given approbati<g ref="char:EOLhyphen"/>on for a Monument to bee erected in the Church for the perpetuall memo<g ref="char:EOLhyphen"/>riall of the fact, which was according<g ref="char:EOLhyphen"/>ly performed by the care and labour of <hi>Edward Marshall</hi> Tomb-maker un<g ref="char:EOLhyphen"/>der St. <hi>Dunstans</hi> Church in the west in Fleet-street: of whom if any that doubt, may receive ample satisfaction;
+<pb facs="tcp:157701:5"/> all things considered, it will easily ap<g ref="char:EOLhyphen"/>peare, that it is no <hi>Popish Relation,</hi> or <hi>lying Legend,</hi> to gull and deceive peo<g ref="char:EOLhyphen"/>ple: but a true and reall thing lately done: the particulars whereof fol<g ref="char:EOLhyphen"/>low in order.</p>
+            <p>In the parish called <hi>Sale-monachorum,</hi> in the County of <hi>Devon,</hi> there lives one <hi>Iames Oxenham</hi> a Gentleman of good worth and quality, who had many Children, one whereof was called <hi>John Oxenham,</hi> a young man in the vigour, beautie, and flower of his age, about 22. who was of stature comely, and tall, being in height of body sixe foote and an halfe, a very proper person; and for the endow<g ref="char:EOLhyphen"/>ments and gifts of his minde richly qualified; much addicted to pious and religious exercises; (a rare pra<g ref="char:EOLhyphen"/>ctice in these licentious times) for young men to imitate; thinking it
+<pb facs="tcp:157701:6"/> best to grow in grace betimes, (as King <hi>Solomon</hi> adviseth) <hi>to rem<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> our Creator in the dayes of our yo<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one knowing how soone Deat<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bin<g ref="char:EOLhyphen"/>ger and fore-runner may summon us all to all to appeare: This young Gentleman fell sicke, who being vi<g ref="char:EOLhyphen"/>sited by many of the neighbours du<g ref="char:EOLhyphen"/>ring the time of his sicknesse, depar<g ref="char:EOLhyphen"/>ted this transitory life on the fifth day of <hi>September,</hi> 1635. to whom two dayes before hee yeelded up his soule to God, there appeared the likenesse of a bird with a white breast, hove<g ref="char:EOLhyphen"/>ring over him; and so he fitting him<g ref="char:EOLhyphen"/>selfe for his happy departure, yeelded up his spirit to him that gave it, with manifest and comfortable expressions of his faith in our Lord Jesus Christ: and for the confirmation of this ap<g ref="char:EOLhyphen"/>pearance, there are two honest and substantiall men, who were then pre<g ref="char:EOLhyphen"/>sent,
+<pb facs="tcp:157701:6"/> to take away all sinister suspiti<g ref="char:EOLhyphen"/>on and doubt, <hi>Robert Woodley</hi> and <hi>Humphry King,</hi> who were not by any rewards hired to speake so; but when they were examined, freely justified the same, both to the Minister of the parish, by the appoyntment of the reverend Father in God, <hi>Ioseph</hi> Lord Bishop of <hi>Exeter.</hi>
+            </p>
+            <p>He was no sooner dead in this pi<g ref="char:EOLhyphen"/>ous manner; but the same apparition did againe show it selfe to <hi>Thomazine,</hi> the wife of <hi>Iames Oxenham,</hi> the yon<g ref="char:EOLhyphen"/>ger gentleman, about eleven of the Clocke at night, which <hi>Thomazine</hi> was a woman of a blamelesse and unspotted life, <hi>Striving to keep a good Conscience towards God and man; keeping</hi> (as St. <hi>Iames</hi> speakes) <hi>her selfe unspot<g ref="char:EOLhyphen"/>ted</hi>
+               <note place="margin">Jam. 6.</note>
+               <hi>of the World,</hi> who also was diligent in the performance of Christian Du<g ref="char:EOLhyphen"/>ties, and was loving and amiable to
+<pb facs="tcp:157701:7"/> her husband, and of carriage to her neighbours affable and courteous: moreover; which was the grace of all other her excellent parts, shee was wondrously charitable to the poore: Shee being desirous to be dissolved, and to be with the Lord, with hea<g ref="char:EOLhyphen"/>venly expressions of her hope and faith, shee dyed to the comfort of all about her, the seventh of <hi>September,</hi> in the yeare 1635. and that the like<g ref="char:EOLhyphen"/>nesse of such a Bind <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>overed over her, before her giving up her soule, as appeares by the testimony of two women who were present, by name, <hi>Elizabeth Frost,</hi> and <hi>Ioan Tooker,</hi> who were likewise examined concerning the truth of this before the aforesaid Minister: and though there bee ma<g ref="char:EOLhyphen"/>ny, who perhaps may say, alas! these were but women, and so no heed to be taken to their words: It is answe<g ref="char:EOLhyphen"/>red;
+<pb facs="tcp:157701:7"/> are not women of the same houshold of faith with men? and why then not to be credited? again, these were not such women, who were to procur'd by hope of gaine to speake falsely, neither were there any of such corrupt mindes, who offered them any; and why should wee sup<g ref="char:EOLhyphen"/>pose, but that women have a care of their soules health as well as men? or to what purpose should they ha<g ref="char:EOLhyphen"/>zard their Faiths upon things that were not? and therefore their witnes in this kinde is to bee allowed as au<g ref="char:EOLhyphen"/>thenticall as mens, unlesse some just allegation can be produc'd, to make voyd their integrity.</p>
+            <p>Not long after but <hi>Rebeccah,</hi> the si<g ref="char:EOLhyphen"/>ster of the aforesaid <hi>Thomazine,</hi> aged about eight yeares, to whom about eleven of Clocke of the night ap<g ref="char:EOLhyphen"/>peared the Bird in the same likenesse,
+<pb facs="tcp:157701:8"/> and hovered over her: shee was a vir<g ref="char:EOLhyphen"/>gin of great hopes, and wondrous do<g ref="char:EOLhyphen"/>cible, of a gentle and courteous beha<g ref="char:EOLhyphen"/>viour to all; shee dyed in a peaceable manner the ninth of Septemb. 1635. prayer having beene publikely by the Minister with the Congregation, made for her recovery, she departed: the witnesses of the aforesaid Appa<g ref="char:EOLhyphen"/>rition, by name <hi>Elizabeth Avery,</hi> and <hi>Mary Stephens.</hi>
+            </p>
+            <p>And she was no sooner dead, but <hi>Thomazine</hi> a little Child of the afore<g ref="char:EOLhyphen"/>said <hi>James Oxenham,</hi> and <hi>Thomazine</hi> his wife, being in a Cradle, fell sicke, o<g ref="char:EOLhyphen"/>ver whom did presently appeare the said Bird, in forme as aforesaid, and so she dyed the fifteenth of September, 1635. witnesses to this, the same two afore named, <hi>Elizabeth Avery,</hi> and <hi>Ma<g ref="char:EOLhyphen"/>ry Stephens:</hi> and what is more, the said bird appeared to <hi>Grace,</hi> the Grand<g ref="char:EOLhyphen"/>mother
+<pb facs="tcp:157701:8"/> of the said <hi>John,</hi> over her death-bed, which said <hi>Grace</hi> was a vertuous woman, and full of good works, and yeelded her selfe into the hands of her Maker, with great cheer<g ref="char:EOLhyphen"/>fulnesse and willingnesse, in the yeare of our Redemption, 1618. And to shut up all, there were foure more of the said family and kindred who were sicke, and yet did never see or perceive any such apparition, and recovered their former health speedily, to the glory of God, and comfort of their friends. Now briefely, if there were no such thing, how came some to see it, at severall times, upon the sicknes of severall parties, and all of them did perceive it in one and the same shape? if it were so, how come so many in these times to doubt, nay plainly and flatly to deny that there are any Ap<g ref="char:EOLhyphen"/>paritions now in these times as in for<g ref="char:EOLhyphen"/>mer? but to condemne so many suf<g ref="char:EOLhyphen"/>ficient
+<pb facs="tcp:157701:9"/> sober witnesses, lawfully sum<g ref="char:EOLhyphen"/>moned to the confirmation of this particular; what is it but to confine all things to their own bare conceits, and mistrusting opinions: I hold it not therfore amisse, to give the Rea<g ref="char:EOLhyphen"/>der honest satisfaction concerning this one particular thing. I will there<g ref="char:EOLhyphen"/>fore lay downe some conclusions, to prove the possibility and reallity of such Apparitions even in these latter times; how ever I alwayes will doe it under the censure of better judge<g ref="char:EOLhyphen"/>ments.</p>
+            <p>First then, none can denie, but be<g ref="char:EOLhyphen"/>fore the Law in <hi>Abrahams</hi> time, there appeared three men to him, and two to <hi>Lot,</hi> which of all are held to be An<g ref="char:EOLhyphen"/>gels. Under the Law tis frequently read of sundry Apparitions to the Lords Prophets, and others. Under the Gospell likewise who is so igno<g ref="char:EOLhyphen"/>rant, but knowes that then there like<g ref="char:EOLhyphen"/>wise
+<pb facs="tcp:157701:9"/> were sundry Apparitions, as the Holy Ghost came downe in the shape of a Dove: at our Saviours Transfiguration there ap<g ref="char:EOLhyphen"/>peared two men, <hi>Moses</hi> and <hi>Elias.</hi> In the Apostles times 'tis not to be questioned, but that Angels appeared to them, as to St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> in prison, and before that, to the women after our Saviours Resurrection; &amp; it seemes Apparitions were not onely in those times, but they came also with some affrightment and astonishment of the beholders; so tis read in St. <hi>Matthews</hi> Gospell, that the wo<g ref="char:EOLhyphen"/>men were astonished at the sight of the An<g ref="char:EOLhyphen"/>gels; so tis said of the Shepheards, they re<g ref="char:EOLhyphen"/>turned with feare and great joy: so also when the Angel appeared to the shepherds, he used this speech to them; <hi>feare not,</hi> as in<g ref="char:EOLhyphen"/>cluding thus much, that then men did usual<g ref="char:EOLhyphen"/>ly fear such apparitions; 'tis express'd also of our Blessed Lord, that after his resurrection, when he appeared to his Apostles, that hee said to them 'tis I, 'tis not a Spirit, intima<g ref="char:EOLhyphen"/>ting thus much, that then Spirits did appear unto men: when our Saviour walked upon
+<pb facs="tcp:157701:10"/> the Sea, 'tis said of his Disciples, that they were afraid, supposing e it had beene a Spi<g ref="char:EOLhyphen"/>rit, 'twould bee too tedious to recite all examples in this kind: to conclude the first poynt, 'tis cleare, that before and under the Law, as also under the Gospell, and▪ like<g ref="char:EOLhyphen"/>wise in the Apostles times Apparitions were frequent: but all the question is, whether now, or not? Yes for certaine; I thus prove it: I hope, first none will deny but that there are Angels still, both good, and bad: Secondly, that they are <hi>Gods Messengers</hi> to men, either for mercy, or judgement: Third<g ref="char:EOLhyphen"/>ly, that they doe obey the injunctions laid upon them and dayly execute the will of the supreme Moderator. Fourthly, none can denie but that Angels are Spirits. So Saint <hi>Paul</hi> calls them, <hi>Heb. 1. Ministring Spirits sent out:</hi> now lay all these together; first, that they are; secondly, that they bee Gods A<g ref="char:EOLhyphen"/>gents; thirdly, that they doe what he sends them for: fourthly, that they are all Spirits, and then who can doubt but they appeare likewise? for first, need not the children
+<pb facs="tcp:157701:10"/> of God now as much comfort as ever; who shall bring it if not they? secondly, why are they messengers, unlesse sent out to men? Thirdly, how could they doe their errands, but by appearing? Lastly, what need they be sent, unlesse they came? tis impossible that those famous Martyrs could have so patiently, so comfortably endured all those cruell and exquisite torments as they did, had not Gods Angels ministred unto them helpe and comfort? who can suppose that either the Angels care of Gods Church is lesse than it was? or else their love to men is decreased? or their power abated? or that there is no need now in the last times, which are fullest of persecutions, of their ayd and presence? are we stronger than <hi>Daniel,</hi> yet he had an Angel? are wee stouter in faith than St. <hi>Peter,</hi> yet he had such a spirituall Embas<g ref="char:EOLhyphen"/>sador sent to refresh him? are we more than our blessed Lord, and yet tis said, the Angels came and ministred to him? the one of these must needs follow, that either they are not, or else that their office is ceased? but they
+<pb facs="tcp:157701:11"/> are, &amp; their charge is still the same, to pitch their tents about Gods people; and there<g ref="char:EOLhyphen"/>fore why should they not appeare: this is for good spirits, now for bad: that they may and doe appeare, why not? is not Satan let loose? are not these the last times? doth not he use the wicked Angels to terrifie and pu<g ref="char:EOLhyphen"/>nish wicked men: and what doth more ter<g ref="char:EOLhyphen"/>rifie and mak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men agast than what is seen? <hi>Belshazzer,</hi> if he sees but the hand-writing is suddenly amazed: shall we suppose that all those confessions of wicked men, all those screechings and terrours and affrightments doe proceed from what was never seene? certainly not; if the Devill doth appeare as an Angel of light to deceive, why not as an Angell of darknesse to affright: if hee did present himselfe to our Saviour Christ in a visible forme, in a conspicuous shape, why may he not doe the same, or the like his members? if he useth all meanes to affright and terrifie men, why may he not appeare to them? such who deny there are any appari<g ref="char:EOLhyphen"/>tions, must either prove (as the Sadduces of
+<pb facs="tcp:157701:11"/> old) that there are no Angels nor Spirits; or else they must say, that they cannot appeare now, which will be hard to do: for first, the wicked neither want will nor malice, and though God limits their power, yet he hath not annihilated it; but doth, as he sees best, give and grant to them power to inflict pu<g ref="char:EOLhyphen"/>nishments on men: thats for the first positi<g ref="char:EOLhyphen"/>on: it followes now in the second place,</p>
+            <p>That there are apparitions from the cer<g ref="char:EOLhyphen"/>tainty of the sence of seeing: the eye, as it is the noblest of all the sences, so tis the least subject to error; nothing is more certain than what is seene: an eare witnes is not ad<g ref="char:EOLhyphen"/>judged of that Equivalency, or sufficiencie in determining matters of contest; as an eye witnes. The Prophet <hi>David</hi> brings in wicked men with this speech in their mouths; <hi>Fye on thee we saw it with our eyes,</hi> as who should say, that for certaine it must needs then be unquestionably true, and though it be held for a <hi>Maxime,</hi> that <hi>visus fallice circa objectum,</hi> (i. e.) that <hi>the sight is deceived about obiects;</hi> that may be, if it be spoken of their <hi>Dimensions,</hi>
+               <pb facs="tcp:157701:12"/> not realities, or else when the thing pro<g ref="char:EOLhyphen"/>pos'd for the obiect is at such a largenesse of distance, that the eie cannot comprehend or reach it: or further, when as that which laid out for the object is of that swiftnes of motion, that it wanting a stability doth by its suddain turnings, and changing windings cozen (as I may so say) and cheat the eye, and thus doe common expert juglers practice: but let the object have <hi>Reality, Propinquity,</hi> and <hi>Stability,</hi> and then for cer<g ref="char:EOLhyphen"/>taine the eye will be the surest apprehender of it.</p>
+            <p>And seeing that <hi>color est obiectum visus,</hi> (i. e.) that <hi>colour is the obiect of the sight:</hi> It seldome mistakes black for white, or white for black; but the other sences as they are inferiour, so are they more imperfect than this sence of seeing: this I say, because that concerning this present subject there is principall use made of the eye; now for certaine spirits, though they be incorporeall, and so cannot be felt or touched; yet they are not invi<g ref="char:EOLhyphen"/>sible but that they may bee seene; so then
+<pb facs="tcp:157701:12"/> being that Spirits are visible, and sent, what should hinder, but that when they doe ap<g ref="char:EOLhyphen"/>peare, they may be seen: the former conside<g ref="char:EOLhyphen"/>rations being granted, concerning the nature of the objectt; so that they who suppose, that all apparitions are meerly phantasticall and imaginary, &amp; no waies subject to the sence, must needs overthrow all those apparitions which have beene in all ages, or else make the nature of Spirits to bee different from what they then were; or lastly impute the fault to the imperfection of the sence: all which are alike untrue; and therefore what hinders, that there may not be apparitions good, or bad▪ is not yet discovered.</p>
+            <p>Thirdly, if apparitions were the onely o<g ref="char:EOLhyphen"/>perations and Chimera's of the phancie, and not reall, then in any great conflicts and tentations, the comfort that <hi>Gods Children</hi> would feele, should be onely imaginary and phantasticall, not reall: so likewise all the torments and troubles of the soule would have no perpetuity, nor true being; the Imagination so often varying in respect of
+<pb facs="tcp:157701:13"/> the objects variety, and those things which caused or aggravated the torment being not substantiall, but suppositious: so should those everlasting flames of hell not burne really and sensibly the bodies of the wicked condemned thither for Impieties, but hell torments should be onely bug-beares to af<g ref="char:EOLhyphen"/>fright children, &amp; meer conceits; and so like wise those eternall joyes in heaven, and hea<g ref="char:EOLhyphen"/>ven it self should only live, &amp; be in imagina<g ref="char:EOLhyphen"/>tion onely: but what strange sequells could these positions produce is easily seen, how weak would the joyes of <hi>Gods Children</hi> bee? how vaine their hopes? how childish the feares of wicked men? and who would, or need fear the terror of that great Judge?</p>
+            <p>But briefely, seeing that God hath such instruments of mercy or justice, let the righ<g ref="char:EOLhyphen"/>teous take courage and comfort in all con<g ref="char:EOLhyphen"/>ditions: and let the wicked returne and a<g ref="char:EOLhyphen"/>mend their lewd courses, lest God send out these Instruments in his Justice to punish them for their Rebellions.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
